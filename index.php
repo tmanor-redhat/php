@@ -1,5 +1,5 @@
 <?php
-print "Hello, World! php version is " . PHP_VERSION . "\nI'm running in OpenShift!!";
+print "Hello, World! php version is " . PHP_VERSION . "\n";
 
 sleep(10);
 print "Calling 'myapp' page...\n";
