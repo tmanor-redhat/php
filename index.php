@@ -2,7 +2,7 @@
 print "Hello, World! php version is " . PHP_VERSION . "\n";
 
 sleep(10);
-print "Calling 'myapp' page...\n";
+print "Calling 'myapp' page...\n I'm running in OpenShift 4.6!!!";
 
 // create a new cURL resource
 $ch = curl_init();
